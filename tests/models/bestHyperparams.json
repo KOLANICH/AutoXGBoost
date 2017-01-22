@@ -1,0 +1,22 @@
+{
+	"A0": {
+		"colsample_bytree": 0.999999,
+		"learning_rate": 0.01,
+		"max_depth": 11,
+		"num_boost_round": 1,
+		"min_child_weight": 0.0005500028,
+		"min_split_loss": 0.0001200006,
+		"reg_alpha": 1726.938819746217,
+		"subsample": 0.999999
+	},
+	"A1": {
+		"colsample_bytree": 0.697047493,
+		"learning_rate": 0.1124608073,
+		"max_depth": 17,
+		"num_boost_round": 1,
+		"min_child_weight": 53.460245234,
+		"min_split_loss": 1.1907657798,
+		"reg_alpha": 195.12310894009997,
+		"subsample": 0.9105500790000001
+	}
+}
